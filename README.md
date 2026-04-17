@@ -1,4 +1,1 @@
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/5168e2f9-739d-44f3-ba8b-6b2f3144a87a" width="100%" controls>
-  </video>
-</div>
+<img width="512" height="512" alt="9433-anya-3" src="https://github.com/user-attachments/assets/84266b60-cec3-4501-ad32-059b1b4c6caf" />
